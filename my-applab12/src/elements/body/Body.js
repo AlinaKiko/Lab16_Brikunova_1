@@ -149,6 +149,7 @@ function Body() {
 				<option>Дождливая</option>
 				<option>Пасмурная</option>
 				<option>Град</option>
+				<option>Отличная</option>
 			</select>
 		</form>	
    
